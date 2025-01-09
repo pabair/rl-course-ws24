@@ -13,7 +13,7 @@ The recommended way to setup your development environment is to use Anaconda:
 
 4. Install the following packages with conda. Execute:
 
-`conda install numpy pandas matplotlib scikit-learn jupyter seaborn gymnasium`
+`conda install numpy pandas matplotlib scikit-learn jupyter seaborn tqdm gymnasium`
 
 5. Test your setup by running:
 
